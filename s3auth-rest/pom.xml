@@ -136,7 +136,7 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
     <dependency>
       <groupId>com.jcabi</groupId>
       <artifactId>jcabi-http</artifactId>
-      <version>1.10.3</version>
+      <version>1.20.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
